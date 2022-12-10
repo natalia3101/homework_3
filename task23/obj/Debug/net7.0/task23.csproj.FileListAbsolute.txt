@@ -1,0 +1,15 @@
+D:\Программирование\зсяп_сем\homework3\task23\bin\Debug\net7.0\task23.exe
+D:\Программирование\зсяп_сем\homework3\task23\bin\Debug\net7.0\task23.deps.json
+D:\Программирование\зсяп_сем\homework3\task23\bin\Debug\net7.0\task23.runtimeconfig.json
+D:\Программирование\зсяп_сем\homework3\task23\bin\Debug\net7.0\task23.dll
+D:\Программирование\зсяп_сем\homework3\task23\bin\Debug\net7.0\task23.pdb
+D:\Программирование\зсяп_сем\homework3\task23\obj\Debug\net7.0\task23.csproj.AssemblyReference.cache
+D:\Программирование\зсяп_сем\homework3\task23\obj\Debug\net7.0\task23.GeneratedMSBuildEditorConfig.editorconfig
+D:\Программирование\зсяп_сем\homework3\task23\obj\Debug\net7.0\task23.AssemblyInfoInputs.cache
+D:\Программирование\зсяп_сем\homework3\task23\obj\Debug\net7.0\task23.AssemblyInfo.cs
+D:\Программирование\зсяп_сем\homework3\task23\obj\Debug\net7.0\task23.csproj.CoreCompileInputs.cache
+D:\Программирование\зсяп_сем\homework3\task23\obj\Debug\net7.0\task23.dll
+D:\Программирование\зсяп_сем\homework3\task23\obj\Debug\net7.0\refint\task23.dll
+D:\Программирование\зсяп_сем\homework3\task23\obj\Debug\net7.0\task23.pdb
+D:\Программирование\зсяп_сем\homework3\task23\obj\Debug\net7.0\task23.genruntimeconfig.cache
+D:\Программирование\зсяп_сем\homework3\task23\obj\Debug\net7.0\ref\task23.dll
